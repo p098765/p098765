@@ -1,0 +1,3 @@
+# Seokchan GG
+## TIL
+### google
